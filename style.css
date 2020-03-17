@@ -233,9 +233,59 @@ margin-top: 30px;
     padding-top:20px;
     color: white;
 }
+#faq-block a {
+    color: orange;
+    text-decoration-line: none;
+}
 #faq-block p {
     font-weight: 300;
     font-size: 18px;
     opacity: .5;
     color: white;
+}
+
+footer {
+    background-color:rgb(23, 64, 107);
+    height: 400px;
+}
+
+.contact-list {
+
+    width: 300px;
+    float:left
+
+}
+ul {
+    list-style-type: none;
+}
+
+
+.contact-list ul li a {
+    color: white;
+    font-size: 20px;
+
+}
+.contact-list ul li strong {
+    color: white;
+
+}
+.contact-list ul li {
+    padding: 20px;
+}
+
+.fluentify {
+    width: 400px;
+
+
+    float: left;
+    margin-left: 50px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+.fluentify h3 {
+    margin-bottom: 40px;
+}
+.fluentify p {
+padding: 40px;
 }
