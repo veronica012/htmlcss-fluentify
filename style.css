@@ -222,3 +222,20 @@ margin-top: 30px;
     font-size: 15px;
 
 }
+
+#faq-block {
+    height: 100px;
+    background-color: background-color: #0f335a;
+}
+#faq-block h3 {
+    font-size: 30px;
+    font-weight: 300;
+    padding-top:20px;
+    color: white;
+}
+#faq-block p {
+    font-weight: 300;
+    font-size: 18px;
+    opacity: .5;
+    color: white;
+}
